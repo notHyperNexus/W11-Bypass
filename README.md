@@ -1,7 +1,6 @@
 # W11 Bypass
 
-Version: 1.1.0.2025
-
+Version: 1.1.5.1908
 User: Nastionzie175
 
 # Preview
@@ -9,11 +8,13 @@ User: Nastionzie175
 
 :: Installed
 
-![installed](https://user-images.githubusercontent.com/94728590/222662566-cb753636-bc00-4cf2-9885-b281162267f7.png)
+![Installed](https://user-images.githubusercontent.com/94728590/222893943-379f5878-b62e-4d52-b231-852fed91eb35.png)
+
 
 :: Removed
 
-![Removed](https://user-images.githubusercontent.com/94728590/222662653-49fe669c-b876-4eb7-99b0-1dcbc9a50c73.png)
+![removed](https://user-images.githubusercontent.com/94728590/222893958-28bccd8e-bb07-481c-890b-2f2eb35cdcfd.png)
+
 
 
 --------------
