@@ -22,4 +22,7 @@ User: Nastionzie175
 
 Discord: Nexus7#0001
 
+Discord preview: ![about](https://user-images.githubusercontent.com/94728590/223055649-36f32419-ce4b-413e-9b1a-d7207f9b9123.PNG)
+
+
 YouTube: https://youtube.com/@notnexus7
