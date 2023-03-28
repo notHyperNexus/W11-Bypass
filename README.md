@@ -1,11 +1,13 @@
 # W11 Bypass
 
-Version: 1.1.5.1908
+Version: 1.2.2.1098
 
 User: Nastionzie175
 
 # Preview
 --------------
+
+Old Version 1.1.5.1908
 
 :: Installed
 
